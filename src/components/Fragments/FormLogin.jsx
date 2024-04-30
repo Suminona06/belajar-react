@@ -5,13 +5,13 @@ const FormLogin = () => {
   return (
     <form action="">
       <InputForm
-        label="email"
+        label="Email"
         type="email"
         placeholder="example@mail.com"
         name="email"
       ></InputForm>
       <InputForm
-        label="password"
+        label="Password"
         type="password"
         placeholder="******"
         name="password"
